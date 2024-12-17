@@ -1,0 +1,118 @@
+species_code,scientific_name,common_name,order,family,family_common,category,taxon_order,report_as,extinct,lookup_species
+comred,Acanthis flammea,Common Redpoll,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,31962,NA,FALSE,Acanthis flammea
+norgos,Accipiter atricapillus,American Goshawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8149,NA,FALSE,Accipiter atricapillus
+coohaw,Accipiter cooperii,Cooper's Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8122,NA,FALSE,Accipiter cooperii
+shshaw,Accipiter striatus,Sharp-shinned Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8109,NA,FALSE,Accipiter striatus
+nswowl,Aegolius acadicus,Northern Saw-whet Owl,Strigiformes,Strigidae,Owls,species,9096,NA,FALSE,Aegolius acadicus
+manduc,Aix galericulata,Mandarin Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,435,NA,FALSE,Aix galericulata
+chwwid,Antrostomus carolinensis,Chuck-will's-widow,Caprimulgiformes,Caprimulgidae,Nightjars and Allies,species,3610,NA,FALSE,Antrostomus carolinensis
+easwpw1,Antrostomus vociferus,Eastern Whip-poor-will,Caprimulgiformes,Caprimulgidae,Nightjars and Allies,species,3630,NA,FALSE,Antrostomus vociferus
+rthhum,Archilochus colubris,Ruby-throated Hummingbird,Caprimulgiformes,Trochilidae,Hummingbirds,species,4776,NA,FALSE,Archilochus colubris
+tuftit,Baeolophus bicolor,Tufted Titmouse,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",species,21771,NA,FALSE,Baeolophus bicolor
+cedwax,Bombycilla cedrorum,Cedar Waxwing,Passeriformes,Bombycillidae,Waxwings,species,29386,NA,FALSE,Bombycilla cedrorum
+grhowl,Bubo virginianus,Great Horned Owl,Strigiformes,Strigidae,Owls,species,8705,NA,FALSE,Bubo virginianus
+rethaw,Buteo jamaicensis,Red-tailed Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8312,NA,FALSE,Buteo jamaicensis
+reshaw,Buteo lineatus,Red-shouldered Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8284,NA,FALSE,Buteo lineatus
+brwhaw,Buteo platypterus,Broad-winged Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8293,NA,FALSE,Buteo platypterus
+canwar,Cardellina canadensis,Canada Warbler,Passeriformes,Parulidae,New World Warblers,species,33798,NA,FALSE,Cardellina canadensis
+wlswar,Cardellina pusilla,Wilson's Warbler,Passeriformes,Parulidae,New World Warblers,species,33799,NA,FALSE,Cardellina pusilla
+bicthr,Catharus bicknelli,Bicknell's Thrush,Passeriformes,Turdidae,Thrushes and Allies,species,27854,NA,FALSE,Catharus bicknelli
+veery,Catharus fuscescens,Veery,Passeriformes,Turdidae,Thrushes and Allies,species,27846,NA,FALSE,Catharus fuscescens
+herthr,Catharus guttatus,Hermit Thrush,Passeriformes,Turdidae,Thrushes and Allies,species,27866,NA,FALSE,Catharus guttatus
+gycthr,Catharus minimus,Gray-cheeked Thrush,Passeriformes,Turdidae,Thrushes and Allies,species,27851,NA,FALSE,Catharus minimus
+swathr,Catharus ustulatus,Swainson's Thrush,Passeriformes,Turdidae,Thrushes and Allies,species,27857,NA,FALSE,Catharus ustulatus
+brncre,Certhia americana,Brown Creeper,Passeriformes,Certhiidae,Treecreepers,species,26564,NA,FALSE,Certhia americana
+evegro,Coccothraustes vespertinus,Evening Grosbeak,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,31563,NA,FALSE,Coccothraustes vespertinus
+yebcuc,Coccyzus americanus,Yellow-billed Cuckoo,Cuculiformes,Cuculidae,Cuckoos,species,3230,NA,FALSE,Coccyzus americanus
+bkbcuc,Coccyzus erythropthalmus,Black-billed Cuckoo,Cuculiformes,Cuculidae,Cuckoos,species,3235,NA,FALSE,Coccyzus erythropthalmus
+olsfly,Contopus cooperi,Olive-sided Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16581,NA,FALSE,Contopus cooperi
+eawpew,Contopus virens,Eastern Wood-Pewee,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16615,NA,FALSE,Contopus virens
+ruckin,Corthylio calendula,Ruby-crowned Kinglet,Passeriformes,Regulidae,Kinglets,species,26391,NA,FALSE,Corthylio calendula
+comrav,Corvus corax,Common Raven,Passeriformes,Corvidae,"Crows, Jays, and Magpies",species,21235,NA,FALSE,Corvus corax
+blujay,Cyanocitta cristata,Blue Jay,Passeriformes,Corvidae,"Crows, Jays, and Magpies",species,20899,NA,FALSE,Cyanocitta cristata
+recwoo,Dryobates borealis,Red-cockaded Woodpecker,Piciformes,Picidae,Woodpeckers,species,11201,NA,FALSE,Dryobates borealis
+dowwoo,Dryobates pubescens,Downy Woodpecker,Piciformes,Picidae,Woodpeckers,species,11175,NA,FALSE,Dryobates pubescens
+haiwoo,Dryobates villosus,Hairy Woodpecker,Piciformes,Picidae,Woodpeckers,species,11202,NA,FALSE,Dryobates villosus
+pilwoo,Dryocopus pileatus,Pileated Woodpecker,Piciformes,Picidae,Woodpeckers,species,11527,NA,FALSE,Dryocopus pileatus
+swtkit,Elanoides forficatus,Swallow-tailed Kite,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,7699,NA,FALSE,Elanoides forficatus
+yebfly,Empidonax flaviventris,Yellow-bellied Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16640,NA,FALSE,Empidonax flaviventris
+leafly,Empidonax minimus,Least Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16654,NA,FALSE,Empidonax minimus
+acafly,Empidonax virescens,Acadian Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16641,NA,FALSE,Empidonax virescens
+rusbla,Euphagus carolinus,Rusty Blackbird,Passeriformes,Icteridae,Troupials and Allies,species,33322,NA,FALSE,Euphagus carolinus
+merlin,Falco columbarius,Merlin,Falconiformes,Falconidae,Falcons and Caracaras,species,11825,NA,FALSE,Falco columbarius
+redjun,Gallus gallus,Red Junglefowl,Galliformes,Phasianidae,"Pheasants, Grouse, and Allies",species,1562,NA,FALSE,Gallus gallus
+kenwar,Geothlypis formosa,Kentucky Warbler,Passeriformes,Parulidae,New World Warblers,species,33484,NA,FALSE,Geothlypis formosa
+mouwar,Geothlypis philadelphia,Mourning Warbler,Passeriformes,Parulidae,New World Warblers,species,33479,NA,FALSE,Geothlypis philadelphia
+purfin,Haemorhous purpureus,Purple Finch,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,31804,NA,FALSE,Haemorhous purpureus
+woewar1,Helmitheros vermivorum,Worm-eating Warbler,Passeriformes,Parulidae,New World Warblers,species,33423,NA,FALSE,Helmitheros vermivorum
+woothr,Hylocichla mustelina,Wood Thrush,Passeriformes,Turdidae,Thrushes and Allies,species,27880,NA,FALSE,Hylocichla mustelina
+yebcha,Icteria virens,Yellow-breasted Chat,Passeriformes,Icteriidae,Yellow-breasted Chat,species,33035,NA,FALSE,Icteria virens
+balori,Icterus galbula,Baltimore Oriole,Passeriformes,Icteridae,Troupials and Allies,species,33241,NA,FALSE,Icterus galbula
+orcori,Icterus spurius,Orchard Oriole,Passeriformes,Icteridae,Troupials and Allies,species,33153,NA,FALSE,Icterus spurius
+miskit,Ictinia mississippiensis,Mississippi Kite,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,7926,NA,FALSE,Ictinia mississippiensis
+daejun,Junco hyemalis,Dark-eyed Junco,Passeriformes,Passerellidae,New World Sparrows,species,32595,NA,FALSE,Junco hyemalis
+tenwar,Leiothlypis peregrina,Tennessee Warbler,Passeriformes,Parulidae,New World Warblers,species,33445,NA,FALSE,Leiothlypis peregrina
+naswar,Leiothlypis ruficapilla,Nashville Warbler,Passeriformes,Parulidae,New World Warblers,species,33454,NA,FALSE,Leiothlypis ruficapilla
+redcro,Loxia curvirostra,Red Crossbill,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,31977,NA,FALSE,Loxia curvirostra
+easowl1,Megascops asio,Eastern Screech-Owl,Strigiformes,Strigidae,Owls,species,8664,NA,FALSE,Megascops asio
+rebwoo,Melanerpes carolinus,Red-bellied Woodpecker,Piciformes,Picidae,Woodpeckers,species,10979,NA,FALSE,Melanerpes carolinus
+rehwoo,Melanerpes erythrocephalus,Red-headed Woodpecker,Piciformes,Picidae,Woodpeckers,species,10926,NA,FALSE,Melanerpes erythrocephalus
+wiltur,Meleagris gallopavo,Wild Turkey,Galliformes,Phasianidae,"Pheasants, Grouse, and Allies",species,1222,NA,FALSE,Meleagris gallopavo
+bawwar,Mniotilta varia,Black-and-white Warbler,Passeriformes,Parulidae,New World Warblers,species,33435,NA,FALSE,Mniotilta varia
+bnhcow,Molothrus ater,Brown-headed Cowbird,Passeriformes,Icteridae,Troupials and Allies,species,33307,NA,FALSE,Molothrus ater
+grcfly,Myiarchus crinitus,Great Crested Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17021,NA,FALSE,Myiarchus crinitus
+helgui,Numida meleagris,Helmeted Guineafowl,Galliformes,Numididae,Guineafowl,species,930,NA,FALSE,Numida meleagris
+conwar,Oporornis agilis,Connecticut Warbler,Passeriformes,Parulidae,New World Warblers,species,33464,NA,FALSE,Oporornis agilis
+louwat,Parkesia motacilla,Louisiana Waterthrush,Passeriformes,Parulidae,New World Warblers,species,33425,NA,FALSE,Parkesia motacilla
+foxspa,Passerella iliaca,Fox Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,32571,NA,FALSE,Passerella iliaca
+blugrb1,Passerina caerulea,Blue Grosbeak,Passeriformes,Cardinalidae,Cardinals and Allies,species,34051,NA,FALSE,Passerina caerulea
+compea,Pavo cristatus,Indian Peafowl,Galliformes,Phasianidae,"Pheasants, Grouse, and Allies",species,1515,NA,FALSE,Pavo cristatus
+robgro,Pheucticus ludovicianus,Rose-breasted Grosbeak,Passeriformes,Cardinalidae,Cardinals and Allies,species,34009,NA,FALSE,Pheucticus ludovicianus
+eastow,Pipilo erythrophthalmus,Eastern Towhee,Passeriformes,Passerellidae,New World Sparrows,species,32888,NA,FALSE,Pipilo erythrophthalmus
+westan,Piranga ludoviciana,Western Tanager,Passeriformes,Cardinalidae,Cardinals and Allies,species,33892,NA,FALSE,Piranga ludoviciana
+scatan,Piranga olivacea,Scarlet Tanager,Passeriformes,Cardinalidae,Cardinals and Allies,species,33889,NA,FALSE,Piranga olivacea
+sumtan,Piranga rubra,Summer Tanager,Passeriformes,Cardinalidae,Cardinals and Allies,species,33885,NA,FALSE,Piranga rubra
+bkcchi,Poecile atricapillus,Black-capped Chickadee,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",species,21676,NA,FALSE,Poecile atricapillus
+carchi,Poecile carolinensis,Carolina Chickadee,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",species,21671,NA,FALSE,Poecile carolinensis
+buggna,Polioptila caerulea,Blue-gray Gnatcatcher,Passeriformes,Polioptilidae,Gnatcatchers,species,26669,NA,FALSE,Polioptila caerulea
+purmar,Progne subis,Purple Martin,Passeriformes,Hirundinidae,Swallows,species,23666,NA,FALSE,Progne subis
+prowar,Protonotaria citrea,Prothonotary Warbler,Passeriformes,Parulidae,New World Warblers,species,33436,NA,FALSE,Protonotaria citrea
+gockin,Regulus satrapa,Golden-crowned Kinglet,Passeriformes,Regulidae,Kinglets,species,26395,NA,FALSE,Regulus satrapa
+easpho,Sayornis phoebe,Eastern Phoebe,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16697,NA,FALSE,Sayornis phoebe
+amewoo,Scolopax minor,American Woodcock,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6031,NA,FALSE,Scolopax minor
+ovenbi1,Seiurus aurocapilla,Ovenbird,Passeriformes,Parulidae,New World Warblers,species,33419,NA,FALSE,Seiurus aurocapilla
+norpar,Setophaga americana,Northern Parula,Passeriformes,Parulidae,New World Warblers,species,33534,NA,FALSE,Setophaga americana
+btbwar,Setophaga caerulescens,Black-throated Blue Warbler,Passeriformes,Parulidae,New World Warblers,species,33604,NA,FALSE,Setophaga caerulescens
+babwar,Setophaga castanea,Bay-breasted Warbler,Passeriformes,Parulidae,New World Warblers,species,33554,NA,FALSE,Setophaga castanea
+cerwar,Setophaga cerulea,Cerulean Warbler,Passeriformes,Parulidae,New World Warblers,species,33532,NA,FALSE,Setophaga cerulea
+hoowar,Setophaga citrina,Hooded Warbler,Passeriformes,Parulidae,New World Warblers,species,33528,NA,FALSE,Setophaga citrina
+yerwar,Setophaga coronata,Yellow-rumped Warbler,Passeriformes,Parulidae,New World Warblers,species,33622,NA,FALSE,Setophaga coronata
+yetwar,Setophaga dominica,Yellow-throated Warbler,Passeriformes,Parulidae,New World Warblers,species,33631,NA,FALSE,Setophaga dominica
+bkbwar,Setophaga fusca,Blackburnian Warbler,Passeriformes,Parulidae,New World Warblers,species,33555,NA,FALSE,Setophaga fusca
+magwar,Setophaga magnolia,Magnolia Warbler,Passeriformes,Parulidae,New World Warblers,species,33550,NA,FALSE,Setophaga magnolia
+palwar,Setophaga palmarum,Palm Warbler,Passeriformes,Parulidae,New World Warblers,species,33611,NA,FALSE,Setophaga palmarum
+chswar,Setophaga pensylvanica,Chestnut-sided Warbler,Passeriformes,Parulidae,New World Warblers,species,33599,NA,FALSE,Setophaga pensylvanica
+pinwar,Setophaga pinus,Pine Warbler,Passeriformes,Parulidae,New World Warblers,species,33616,NA,FALSE,Setophaga pinus
+amered,Setophaga ruticilla,American Redstart,Passeriformes,Parulidae,New World Warblers,species,33529,NA,FALSE,Setophaga ruticilla
+bkpwar,Setophaga striata,Blackpoll Warbler,Passeriformes,Parulidae,New World Warblers,species,33601,NA,FALSE,Setophaga striata
+camwar,Setophaga tigrina,Cape May Warbler,Passeriformes,Parulidae,New World Warblers,species,33531,NA,FALSE,Setophaga tigrina
+btnwar,Setophaga virens,Black-throated Green Warbler,Passeriformes,Parulidae,New World Warblers,species,33675,NA,FALSE,Setophaga virens
+easblu,Sialia sialis,Eastern Bluebird,Passeriformes,Turdidae,Thrushes and Allies,species,27662,NA,FALSE,Sialia sialis
+rebnut,Sitta canadensis,Red-breasted Nuthatch,Passeriformes,Sittidae,Nuthatches,species,26484,NA,FALSE,Sitta canadensis
+whbnut,Sitta carolinensis,White-breasted Nuthatch,Passeriformes,Sittidae,Nuthatches,species,26436,NA,FALSE,Sitta carolinensis
+bnhnut,Sitta pusilla,Brown-headed Nuthatch,Passeriformes,Sittidae,Nuthatches,species,26479,NA,FALSE,Sitta pusilla
+yebsap,Sphyrapicus varius,Yellow-bellied Sapsucker,Piciformes,Picidae,Woodpeckers,species,10907,NA,FALSE,Sphyrapicus varius
+pinsis,Spinus pinus,Pine Siskin,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,32073,NA,FALSE,Spinus pinus
+amegfi,Spinus tristis,American Goldfinch,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,32095,NA,FALSE,Spinus tristis
+chispa,Spizella passerina,Chipping Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,32460,NA,FALSE,Spizella passerina
+brdowl,Strix varia,Barred Owl,Strigiformes,Strigidae,Owls,species,9011,NA,FALSE,Strix varia
+carwre,Thryothorus ludovicianus,Carolina Wren,Passeriformes,Troglodytidae,Wrens,species,26897,NA,FALSE,Thryothorus ludovicianus
+winwre3,Troglodytes hiemalis,Winter Wren,Passeriformes,Troglodytidae,Wrens,species,26844,NA,FALSE,Troglodytes hiemalis
+amerob,Turdus migratorius,American Robin,Passeriformes,Turdidae,Thrushes and Allies,species,28096,NA,FALSE,Turdus migratorius
+easkin,Tyrannus tyrannus,Eastern Kingbird,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17156,NA,FALSE,Tyrannus tyrannus
+yetvir,Vireo flavifrons,Yellow-throated Vireo,Passeriformes,Vireonidae,"Vireos, Shrike-Babblers, and Erpornis",species,18867,NA,FALSE,Vireo flavifrons
+warvir,Vireo gilvus,Warbling Vireo,Passeriformes,Vireonidae,"Vireos, Shrike-Babblers, and Erpornis",species,18890,NA,FALSE,Vireo gilvus
+reevir1,Vireo olivaceus,Red-eyed Vireo,Passeriformes,Vireonidae,"Vireos, Shrike-Babblers, and Erpornis",species,18910,NA,FALSE,Vireo olivaceus
+phivir,Vireo philadelphicus,Philadelphia Vireo,Passeriformes,Vireonidae,"Vireos, Shrike-Babblers, and Erpornis",species,18889,NA,FALSE,Vireo philadelphicus
+buhvir,Vireo solitarius,Blue-headed Vireo,Passeriformes,Vireonidae,"Vireos, Shrike-Babblers, and Erpornis",species,18873,NA,FALSE,Vireo solitarius
+whtspa,Zonotrichia albicollis,White-throated Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,32672,NA,FALSE,Zonotrichia albicollis

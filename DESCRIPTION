@@ -1,0 +1,16 @@
+Package: resolver
+Title: Resolve Messy Joins
+Version: 0.0.0.9000
+Authors@R: 
+    person("Trevor", "Roberts", , "trevor.holden.roberts@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0008-5430-1518"))
+Description: An interactive tool for resolving messy joins on multiple key indices.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    dplyr,
+    purrr,
+    stringdist,
+    stringr
