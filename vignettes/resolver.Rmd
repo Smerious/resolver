@@ -1,0 +1,61 @@
+---
+title: "resolver"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{resolver}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+params:
+  resolve: "y"
+  selection: 1
+---
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup, message = FALSE}
+library(resolver)
+library(dplyr)
+```
+
+The `resolver` function is intended to join multiple datasets with key columns that don't quite match up. To resolve these messy joins, `resolver` takes the `joiner` argument to indicate keys. It also allows for inclusion of a `helper` argument used during interactive resolution of join conflicts, and a `joiners2` argument to attempt a second set of joins on a second series of key columns. Finally, `resolver` uses the `cache` and `cache_loc` arguments to facilitate inclusion in workflows without needing to interact with `resolver` every time a script is run.
+
+```{r data}
+data("taxonomy")
+data("avonet")
+data("eltontraits")
+data("nest_heights")
+```
+
+Because `resolver` was created to join taxonomic databases (although it works with other types of data too), it pairs well with the `taxadb` package to provide a second of set of keys to join on.
+
+```{r taxadb, warning = FALSE, message = FALSE}
+library(taxadb)
+
+taxonomy <- taxonomy %>% mutate(id = get_ids(scientific_name))
+  avonet <- avonet %>% mutate(id = get_ids(Species2))
+  eltontraits <- eltontraits %>% mutate(id = get_ids(Scientific))
+  nest_heights <- nest_heights %>% mutate(id = get_ids(scientific_name))
+```
+
+`resolver` will join these four databases together, then query the user to manually clarify unresolved joins. The function returns a list of the joined databases and the crosswalk used to resolve conflicts.
+
+```{r join, warning = FALSE}
+joined_dbs <- resolver(
+  databases = list(taxonomy, avonet, eltontraits, nest_heights),
+  joiners = list("common_name", "common_name", "English", "common_name"),
+  helpers = list("scientific_name","Species2","Scientific","scientific_name"),
+  joiners2 = list("id", "id", "id", "id")
+)
+```
+
+This vignette barely demonstrates the functionality of `resolver`, but provides a good starting place! Unfortunately, I can't demonstrate the interactive element of `resolver` in R markdown. Let me know if you have additional questions.
+
+...and here is the output!
+
+```{r output}
+print(joined_dbs)
+```

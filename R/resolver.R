@@ -1,7 +1,29 @@
 #appease devtools check()
 globalVariables(c("join2", "distance", ".", "join"))
 
-###resolve database join concepts
+
+#' Resolve messy joins between multiple databases with key variables
+#'
+#' @param databases A list of databases to join together
+#' @param joiners A list of one column per database to join on
+#' @param helpers A list of one column per database to display during interactive resolver
+#' @param cache True/False to write cache to `cache_loc`
+#' @param cache_loc Location to write cache
+#' @param joiners2 A list of one column per database to attempt second join on
+#'
+#' @return A list of joined databases and the crosswalk used to resolve messy joins
+#' @export
+#'
+#' @importFrom dplyr %>%
+#'
+#' @examples \dontrun{
+#'   resolver(
+#' databases = list(taxonomy, avonet, eltontraits, nest_heights),
+#' joiners = list("common_name", "common_name", "English", "common_name"),
+#' helpers = list("scientific_name","Species2","Scientific","scientific_name"),
+#' joiners2 = list("id", "id", "id", "id")
+#' )
+#' }
 resolver <- function(databases, joiners, helpers = NULL, cache = TRUE, cache_loc = getwd(), joiners2 = NULL) {
 
   #FIXME: sloppy cache step -> tighten up
@@ -572,33 +594,3 @@ resolver <- function(databases, joiners, helpers = NULL, cache = TRUE, cache_loc
   return(list(product, crosswalk))
 
 } #fxn end
-
-#vignette
-if(sys.nframe() == 0) {
-
-  #library
-  library(readxl)
-  library(dplyr)
-  library(taxadb)
-
-  #import eg data
-  taxonomy <- read.csv("data/taxonomy.csv")
-  avonet <- read.csv("data/avonet.csv")
-  eltontraits <- read.csv("data/eltontraits.csv")
-  nest_heights <- read.csv("data/nest_heights.csv")
-
-  #add itis ids
-  taxonomy <- taxonomy %>% mutate(id = get_ids(scientific_name))
-  avonet <- avonet %>% mutate(id = get_ids(Species2))
-  eltontraits <- eltontraits %>% mutate(id = get_ids(Scientific))
-  nest_heights <- nest_heights %>% mutate(id = get_ids(scientific_name))
-
-  #test fxn
-  resolver(
-    databases = list(taxonomy, avonet, eltontraits, nest_heights),
-    joiners = list("common_name", "common_name", "English", "common_name"),
-    helpers = list("scientific_name","Species2","Scientific","scientific_name"),
-    joiners2 = list("id", "id", "id", "id")
-  )
-
-}
